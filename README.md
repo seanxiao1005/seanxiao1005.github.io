@@ -1,9 +1,6 @@
-## This place is still working……
+## 持续更新中
 
-First day: 2020-04-01
+10.1 更新影音会中秋国庆贺图
+10.2 上线生日快乐特效
 
-Create a repository and start to use the seanxiao.club as the cname.
 
-Second day:2020-04-02
-
-Begin to find a private hub for stroing the codes.
