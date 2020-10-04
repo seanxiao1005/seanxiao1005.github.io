@@ -17,10 +17,43 @@ const color3 = {
     l: '50%',
     a: '80%'
 };
+const color4 = {
+    h: 45,
+    s: '100%',
+    l: '51%',
+    a: '80%'
+};
 const points1 = [];
 const points2 = [];
 const Actions = [{
-    lifeTime: 120,
+    lifeTime: 90,
+    texts: [{
+        text: '1',
+        hsla: color1
+    }, {
+        text: '0',
+        hsla: color1
+    }, {
+        text: '.',
+        hsla: color1
+    }, {
+        text: '0',
+        hsla: color1
+    }, {
+        text: '5',
+        hsla: color1
+    }, ]
+}, {
+    lifeTime: 90,
+    texts: [{
+        text: '肖',
+        hsla: color4
+    }, {
+        text: '战',
+        hsla: color4
+    }]
+}, {
+    lifeTime: 90,
     texts: [{
         text: '生',
         hsla: color1
@@ -35,7 +68,7 @@ const Actions = [{
         hsla: color1
     }, ]
 }, {
-    lifeTime: 120,
+    lifeTime: 90,
     texts: [{
         text: '平',
         hsla: color2
